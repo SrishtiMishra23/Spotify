@@ -1,2 +1,13 @@
-# Spotify
- The Spotify clone project developed using HTML, CSS, JavaScript, PHP, and MySQL presents a robust music streaming solution that closely emulates the features and user experience of the original Spotify app.
+# Spotify-Clone
+
+Hear your favourite music anytime!
+
+## Software Needed
+
+A Text Editor (Sublime Text, Notepad++, etc)
+
+Localhost (XAMPP, WAMPP, etc)
+
+## Demos
+
+https://spotify.stanleyeric.com/
